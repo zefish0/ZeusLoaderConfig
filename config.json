@@ -1,9 +1,9 @@
 {
-    "LoaderVersion": "1.0.6",
+    "LoaderVersion": "1.0.7",
     "Fortnite": {
         "LatestPatchs": ["+Updated to latest game version", "+Added inbuilt controller support", "!Fixed config bug"],
         "LastUpdate": "07/05/2025",
         "Version": "1.0.4",
-        "State": "On Update"
+        "State": "Undetected"
     }
 }
