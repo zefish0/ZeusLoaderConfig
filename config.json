@@ -1,9 +1,9 @@
 {
-    "LoaderVersion": "1.1.1",
+    "LoaderVersion": "1.1.2",
     "Fortnite": {
         "LatestPatchs": ["+WebRadar beta-test",  "+Improved Aimbot", "+Better Config Manager", "+Performance Optimization", "+Updated to latest game version"],
         "LastUpdate": "24/05/2025",
-        "Version": "1.0.8",
+        "Version": "1.0.9",
         "State": "On Update"
     }
 }
