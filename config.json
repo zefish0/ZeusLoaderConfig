@@ -1,9 +1,9 @@
 {
-    "LoaderVersion": "1.1.2",
+    "LoaderVersion": "1.1.3",
     "Fortnite": {
         "LatestPatchs": ["+Updated to latest game version"],
-        "LastUpdate": "24/05/2025",
-        "Version": "1.0.9",
-        "State": "On Update"
+        "LastUpdate": 08/06/2025",
+        "Version": "1.1.0",
+        "State": "Undetected"
     }
 }
