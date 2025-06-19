@@ -1,7 +1,7 @@
 {
     "LoaderVersion": "1.1.5",
     "Fortnite": {
-        "LatestPatchs": ["+Updated to latest game version"],
+        "LatestPatchs": ["+Updated to latest game version", "*Fixed Config Loader Page", "+Added FOV on radar"],
         "LastUpdate": "11/06/2025",
         "Version": "1.1.1",
         "State": "On Update"
