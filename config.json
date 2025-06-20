@@ -1,7 +1,7 @@
 {
     "LoaderVersion": "1.1.5",
     "Fortnite": {
-        "LatestPatchs": ["+Updated to latest game version", "!Fixed Config Loader Page", "+Added FOV on radar"],
+        "LatestPatchs": ["!Fixed Aimbot", "+Added All/Shotgun Only Triggerbot"],
         "LastUpdate": "19/06/2025",
         "Version": "1.1.2",
         "State": "Undetected"
