@@ -1,9 +1,9 @@
 {
-    "LoaderVersion": "1.1.5",
+    "LoaderVersion": "1.1.6",
     "Fortnite": {
         "LatestPatchs": ["!Fixed Aimbot", "+Added All/Shotgun Only Triggerbot"],
-        "LastUpdate": "19/06/2025",
-        "Version": "1.1.2",
+        "LastUpdate": "20/06/2025",
+        "Version": "1.1.3",
         "State": "Undetected"
     }
 }
