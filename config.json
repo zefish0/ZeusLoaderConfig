@@ -1,8 +1,8 @@
 {
-    "LoaderVersion": "1.1.6",
+    "LoaderVersion": "1.1.7",
     "Fortnite": {
-        "LatestPatchs": ["!Fixed Aimbot", "+Added All/Shotgun Only Triggerbot"],
-        "LastUpdate": "20/06/2025",
+        "LatestPatchs": ["!Fixed Crash Issue","!Optimized Skeleton", "-Removed Feet/Joint (Who tf uses ts ?)"],
+        "LastUpdate": "21/06/2025",
         "Version": "1.1.3",
         "State": "Undetected"
     }
